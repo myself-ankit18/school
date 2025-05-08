@@ -144,7 +144,7 @@ nav ul li a:hover {
   align-items: center;
   justify-content: space-between;
   padding: 60px 5%;
-  background: linear-gradient(135deg, #fff6e5 0%, #ffedcc 100%);
+  background-color: #fff6e5;
   min-height: 80vh;
 }
 
