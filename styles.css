@@ -12,6 +12,7 @@
   --light-color: #ffffff;
   --dark-color: #333333;
   --background-color: #f9f7f7;
+  --background-color2:#fff6e5;
 }
 
 body {
@@ -143,7 +144,7 @@ nav ul li a:hover {
   align-items: center;
   justify-content: space-between;
   padding: 60px 5%;
-  background-color: #fff6e5;
+  background-color: var(--background-color2);
   min-height: 80vh;
 }
 
@@ -308,7 +309,7 @@ nav ul li a:hover {
 
 .testimonials {
   padding: 80px 5%;
-  background-color: #fff6e5;
+  background-color: var(--background-color2);
 }
 
 .testimonial-container {
@@ -416,7 +417,6 @@ nav ul li a:hover {
   justify-content: center;
   width: 40px;
   height: 40px;
-  /* background-color: var(--primary-color); */
   color: white;
   border-radius: 50%;
   font-weight: bold;
