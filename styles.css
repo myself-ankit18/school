@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 :root {
@@ -468,7 +467,6 @@ nav ul li a:hover {
   transition: all 0.3s ease;
   font-family: "Comic Neue", cursive;
   font-size: 1rem;
-  text-transform: uppercase;
   letter-spacing: 1px;
 }
 
